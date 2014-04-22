@@ -1,5 +1,4 @@
 # About testing-prose
-=============
 
 I'm using this github repository/project to test prose (and document editing on github in general).
 
