@@ -8,6 +8,7 @@ I'm also practising [markdown](https://daringfireball.net/projects/markdown/).
 1. Set up repository on github
 2. Installed windows client
 3. Started editing this default readme in [prose.io](http://prose.io)
+4. Installed mac client
 
 
 
